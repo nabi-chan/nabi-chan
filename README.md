@@ -5,3 +5,7 @@
 * ReactJS
 * NodeJS
 * TypeScript
+
+#### Contact me!
+- 📧 : **[pinot.kim@kakao.com](mailto:pinot.kim@kakao.com)**
+- 🐦 : [**@pinot_kim**](https://twitter.com/pinot_kim)
