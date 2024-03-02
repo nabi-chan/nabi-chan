@@ -2,6 +2,9 @@
     🐈<br /><br />
 </h1>
 
-**Software Engineer in [channel-io](https://channel.io)**
+<h4 align="center">Software Engineer in <a href="https://channel.io">channel-io</a></h4>
 
-**[Blog](https://nabi-blog.vercel.app)**
+<h4 align="center">
+    <a href="https://nabi-blog.vercel.app">Blog</a>
+    | <a href="mailto:hello@nabi.kim">Email</a>
+</h4>
